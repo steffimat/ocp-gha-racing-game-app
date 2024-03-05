@@ -1,4 +1,4 @@
-name: Deploy feat/code coming from Pull Request into k8s (before PR merge)
+name: Deploy feat/demo coming from Pull Request into k8s (before PR merge)
 
 on:
   pull_request:
